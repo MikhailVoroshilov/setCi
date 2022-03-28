@@ -1,1 +1,2 @@
-# Ci [![Статус сборки](https://ci.appveyor.com/api/projects/status/nc27lkhbanms4js2?svg=true)](https://ci.appveyor.com/project/Maikl/settingci)
+# Ci 
+[![Build status](https://ci.appveyor.com/api/projects/status/q2s5b93n9qhn32am?svg=true)](https://ci.appveyor.com/project/MikhailVoroshilov/setci)
